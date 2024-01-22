@@ -1,4 +1,4 @@
-# create_school_file.pp
+# create_a_file.pp
 
 file { '/tmp/school':
   ensure  => 'file',
